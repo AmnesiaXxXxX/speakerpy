@@ -26,7 +26,7 @@ keywords=[
 
 [tool.poetry.dependencies]
 python = "^3.10"
-silero = "^0.4.1"
+silero = "^0.5.0"
 sounddevice = "^0.4.6"
 num2words = "^0.5.12"
 transliterate = "^1.10.2"
